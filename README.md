@@ -1,13 +1,6 @@
-<h1>Classic-Pool-Game</h1>
-<small>© Chen Shmilovich - 2018.</small>
+<h1>8 Ball</h1>
+<small>Built by Corey Russ utilizing online class from Chen Shmilovich. Thank you Chen!</small>
 <hr>
-
-Hello everyone!<br><br>
-The presented code is my first shot at building a javascript game.<br>
-It is a classic 8-ball pool game.
-You can choose to play against a friend, or against an AI, with various difficulty levels.
-
-Have fun, and good luck!
 
 <h3>Keys:</h3>
 * 'W' : Increase shot power.<br>
@@ -19,7 +12,7 @@ Have fun, and good luck!
 * Aim by moving the mouse.<br>
 
 <h3>Demo:</h3>
-https://henshmi.github.io/Classic-Pool-Game/
+In order to play, please download and open the index.html file on your desktop.
 
 <h3>Screenshots:</h3>
 <img src="https://image.ibb.co/b9HT6x/screenshots.jpg" style="width: 10px;"></img>
@@ -35,5 +28,6 @@ https://henshmi.github.io/Classic-Pool-Game/
   Bossa Antigua Kevin MacLeod (incompetech.com)<br>
   Licensed under Creative Commons: By Attribution 3.0 License<br>
   http://creativecommons.org/licenses/by/3.0/
-
-
+* Credit to Chen Shmilovich who posted this video on youtube.
+  https://www.youtube.com/watch?v=aXwCrtAo4Wc
+  https://www.youtube.com/watch?v=Am8rT9xICRs
